@@ -2,8 +2,6 @@
 SQL project to analyze online music store data
 
 
-This project is for beginners and will teach you how to analyze the music playlist database. 
-You can examine the dataset with SQL and help the store understand its business growth by answering simple questions.
 
 Database and Tools
 
@@ -15,14 +13,7 @@ Schema- Music Store Database
 ![MusicDatabaseSchema](https://user-images.githubusercontent.com/117621549/235637305-5f6c0679-098f-4de0-a766-8031892259a6.png)
 
 
-**Question Set 1 - Easy**
 
-**Q1: Who is the senior most employee based on job title?**
-
-SELECT title, last_name, first_name 
-FROM employee
-ORDER BY levels DESC
-LIMIT 1
 
 
 
